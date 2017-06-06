@@ -1,0 +1,115 @@
+.headersection {
+    background: #007E00 none repeat scroll 0 0;
+    color: #fff;
+}
+.icon a {
+    background: #37C837 none repeat scroll 0 0;
+    color: #fff;
+
+}
+.searchbtn input[type="text"] {
+    border: 1px solid #37C894;
+    background: #37C837;
+
+}
+.searchbtn input[type="text"]:hover {
+    border: 1px solid #37C894;
+    background: #37C837;
+
+}
+.searchbtn input[type="submit"] {
+    border: 1px solid #37C894;
+
+}
+
+input[type="submit"] {
+    background: #37C85D none repeat scroll 0 0;
+    border: 1px solid #e6af4b;
+    color: #fff;
+}
+.navsection {
+    background: none repeat scroll 0 0 #35903A;
+
+}
+.navsection ul li {
+    border-left: 1px solid #007E00;
+    border-right: 1px solid #007E00;
+  }
+.maincontent {
+    background: #C9F4CB none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+
+}
+.samepost h2 a {
+    color: #007E00;
+
+}
+.sidebar {
+    background: #C9F4CB none repeat scroll 0 0;
+    border: 1px solid #ded4c5;
+
+}
+.contentsection {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #007E00;
+
+}
+.samepost img {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #007E00;
+
+}
+.readmore a {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #007E00;
+    color: #007E00;
+  }
+.samesidebar h2 {
+    background: #35903A none repeat scroll 0 0;
+    border-bottom: 2px solid #007E00;
+    color: #fff;
+
+}
+.samesidebar ul li a {
+    color: #007E00;
+
+}
+.samesidebar ul li {
+    border-bottom: 1px dashed #007E00;
+
+}
+.popular h3 a {
+    color: #007E00;
+}
+
+.footersection {
+    background: #007E00;
+}
+.footermenu ul li a {
+    color: #fff;
+}
+.pagination a {
+    background: #35903A none repeat scroll 0 0;
+    border: 1px solid #007E00;
+    color: #fff;
+}
+.pagination a:hover {
+    background: #007E00 none repeat scroll 0 0;
+    border: 1px solid #35903A;
+    color: #fff;
+}
+.relatedpost h2 {
+    background: #35903A none repeat scroll 0 0;
+    border-bottom: 2px solid #007E00 !important;
+    color: #fff !important;
+
+}
+.about img {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #007E00;
+}
+.samepost h2, .about h2 {
+    border-bottom: 2px solid #e0d6c7;
+    color: #007E00;
+
+}
